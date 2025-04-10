@@ -1,1 +1,0 @@
-Public images and assets go here.
